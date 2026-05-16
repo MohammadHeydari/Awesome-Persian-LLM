@@ -55,15 +55,6 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 
 ---
 
-## Tools & Libraries
-
-- Tokenizers optimized for Persian
-- Text preprocessing tools (normalization, cleaning)
-- Embedding models for Persian
-- RAG frameworks with Persian support
-
----
-
 ## Evaluation & Benchmarks
 
 - [Open Persian LLM Leaderboard](https://huggingface.co/spaces/PartAI/open-persian-llm-leaderboard)
@@ -71,21 +62,10 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 
 ---
 
-## Applications
-
-- Persian chatbots
-- RAG systems in Farsi
-- Search engines
-- Summarization tools
-- Translation systems
-
----
-
 ## APIs & Platforms
 
-- LLM APIs supporting Persian
-- Open-source inference servers
-- Hosted model providers
+- [AvvalAI](https://avalai.ir/)
+- [GapGPT](https://gapgpt.app/)
 
 ---
 
