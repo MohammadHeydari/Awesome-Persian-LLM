@@ -25,6 +25,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 
 - [Benchmarking Open-Source Large Language Models for Persian in Zero-Shot and Few-Shot Learning](https://arxiv.org/html/2510.12807v1)
 - [Benchmarking Large Language Models for Persian](https://arxiv.org/html/2404.02403v1)
+- [Persian-Phi: Efficient Cross-Lingual Adaptation of Compact LLMs via Curriculum Learning](https://arxiv.org/abs/2512.07454)
 - [Extensive LLM Alignment Benchmark in Persian Language](https://arxiv.org/abs/2504.12553)
 - [We Politely Insist: Your LLM Must Learn the Persian Art of Taarof](https://www.researchgate.net/publication/395212893_We_Politely_Insist_Your_LLM_Must_Learn_the_Persian_Art_of_Taarof)
 - [Towards Building First Persian Large Language Model](https://arxiv.org/abs/2312.15713)
@@ -35,18 +36,22 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [PARSE: An Open-Domain Reasoning Question Answering Benchmark for Persian](https://www.researchgate.net/publication/400371023_PARSE_An_Open-Domain_Reasoning_Question_Answering_Benchmark_for_Persian/figures?lo=1&utm_source=google&utm_medium=organic)
 - [Empowering Persian LLMs for Instruction Following](https://aclanthology.org/2025.loreslm-1.3/)
 - [Khayyam Challenge PersianMMLU: Is Your LLM Truly Wise to The Persian Language?](https://openreview.net/forum?id=yIEyHP7AvH&referrer=%5Bthe%20profile%20of%20Omid%20Ghahroodi%5D(%2Fprofile%3Fid%3D~Omid_Ghahroodi1))
+- [Evaluating LLM-Generated Persian Questions for Teaching Conditional Programming Using Bloom’s Taxonomy](https://ieeexplore.ieee.org/document/10843532)
 ---
 
 ## Models
 
 - [Dorna-Llama3-8B-Instruct-GGUF](https://huggingface.co/PartAI/Dorna-Llama3-8B-Instruct-GGUF)
+- [PartAI Dorna-Llama3: The most powerful Persian LLM to date, under 10B parameters](https://ollama.com/partai/dorna-llama3)
 - [PersianMind-v1.0](https://huggingface.co/universitytehran/PersianMind-v1.0)
-
+- [Persian-llm-fibonacci-1-7b-chat.P1_0](https://www.promptlayer.com/models/persian-llm-fibonacci-1-7b-chatp10/)
+- [gemma3persian](https://ollama.com/mshojaei77/gemma3persian)
 ---
 
 ## Repos
 
 - [Persian-Ollama-LLm](https://github.com/sepy-dev/Persian-Ollama-LLm)
+- [Promptwright - Synthetic Dataset Generation Library, Persian Version](https://github.com/ParsBench/Persian-PromptWright)
 --- 
 
 ## Datasets
@@ -71,6 +76,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 
 ## Articles & Blogs
 
+- [https://haghiri75.com/en/maral-is-here-7-billion-parameters-bilingual-model-with-support-of-persian/](https://haghiri75.com/en/maral-is-here-7-billion-parameters-bilingual-model-with-support-of-persian/)
 - [Fine-Tuning a Large Language Model for Persian: Our Company’s Journey](https://medium.com/@info.ahdsoft/fine-tuning-a-large-language-model-for-persian-our-companys-journey-20aedcc9c13f)
 - [The Widening Gap: Persian Language in the Age of Large Language Models](https://www.linkedin.com/pulse/widening-gap-persian-language-age-large-models-mehrdad-zaker-waevc/)
 ---
