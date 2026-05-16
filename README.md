@@ -33,8 +33,8 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [Leveraging Retrieval-Augmented Generation for University Knowledge Retrieval](https://arxiv.org/html/2411.06237v1)
 - [We Politely Insist: Your LLM Must Learn the Persian Art of Taarof](https://aclanthology.org/2025.emnlp-main.94.pdf)
 - [PARSE: An Open-Domain Reasoning Question Answering Benchmark for Persian](https://www.researchgate.net/publication/400371023_PARSE_An_Open-Domain_Reasoning_Question_Answering_Benchmark_for_Persian/figures?lo=1&utm_source=google&utm_medium=organic)
-- 
-
+- [Empowering Persian LLMs for Instruction Following](https://aclanthology.org/2025.loreslm-1.3/)
+- [Khayyam Challenge PersianMMLU: Is Your LLM Truly Wise to The Persian Language?](https://openreview.net/forum?id=yIEyHP7AvH&referrer=%5Bthe%20profile%20of%20Omid%20Ghahroodi%5D(%2Fprofile%3Fid%3D~Omid_Ghahroodi1))
 ---
 
 ## Models
@@ -51,17 +51,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 
 ## Datasets
 
-- Persian text corpora
-- Instruction datasets in Farsi
-- Chat datasets
-- Wikipedia / news / social media datasets
-
-### Categories:
-
-- News datasets  
-- Wikipedia Persian dumps  
-- Conversational datasets  
-- Instruction datasets  
+- [Persian Poetry Dataset for NLP & LLM Tasks](https://github.com/mohammadreza-mohammadi94/Persian-Poem-Dataset)
 
 ---
 
