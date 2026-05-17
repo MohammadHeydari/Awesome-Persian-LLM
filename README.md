@@ -96,12 +96,6 @@ Please keep entries clean and categorized properly.
 
 ---
 
-## License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## Why this repo?
 
 Persian is still an underrepresented language in the LLM ecosystem.  
