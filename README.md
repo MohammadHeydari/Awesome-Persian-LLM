@@ -52,12 +52,13 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 
 - [Persian-Ollama-LLm](https://github.com/sepy-dev/Persian-Ollama-LLm)
 - [Promptwright - Synthetic Dataset Generation Library, Persian Version](https://github.com/ParsBench/Persian-PromptWright)
+
 --- 
 
 ## Datasets
 
 - [Persian Poetry Dataset for NLP & LLM Tasks](https://github.com/mohammadreza-mohammadi94/Persian-Poem-Dataset)
-
+- [Pre-trained Language Models](https://nlpdataset.ir/farsi/pre-trained_lm.html)
 ---
 
 ## Evaluation & Benchmarks
