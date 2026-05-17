@@ -13,11 +13,9 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [Datasets](#-datasets)
 - [Tools & Libraries](#️-tools--libraries)
 - [Evaluation & Benchmarks](#-evaluation--benchmarks)
-- [Applications](#-applications)
 - [APIs & Platforms](#-apis--platforms)
 - [Articles & Blogs](#-articles--blogs)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -37,6 +35,8 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [Empowering Persian LLMs for Instruction Following](https://aclanthology.org/2025.loreslm-1.3/)
 - [Khayyam Challenge PersianMMLU: Is Your LLM Truly Wise to The Persian Language?](https://openreview.net/forum?id=yIEyHP7AvH&referrer=%5Bthe%20profile%20of%20Omid%20Ghahroodi%5D(%2Fprofile%3Fid%3D~Omid_Ghahroodi1))
 - [Evaluating LLM-Generated Persian Questions for Teaching Conditional Programming Using Bloom’s Taxonomy](https://ieeexplore.ieee.org/document/10843532)
+- [FarsInstruct: Empowering Large Language Models for Persian Instruction Understanding](https://arxiv.org/html/2407.11186v1)
+
 ---
 
 ## Models
@@ -52,7 +52,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 
 - [Persian-Ollama-LLm](https://github.com/sepy-dev/Persian-Ollama-LLm)
 - [Promptwright - Synthetic Dataset Generation Library, Persian Version](https://github.com/ParsBench/Persian-PromptWright)
-
+- [AVA-Llama-3](https://github.com/mehdihosseinimoghadam/AVA-Llama-3)
 --- 
 
 ## Datasets
