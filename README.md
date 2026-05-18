@@ -55,6 +55,12 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 
 --- 
 
+## Persian Models on Ollama
+
+- [Ollama version of heydariAI-persian-embeddings](https://ollama.com/aligh4699/heydariAI-persian-embeddings)
+- [persian-embeddings](https://ollama.com/alishendi/persian-embeddings)
+- [gemma3persian](https://ollama.com/mshojaei77/gemma3persian)
+
 ## Datasets
 
 - [Persian Poetry Dataset for NLP & LLM Tasks](https://github.com/mohammadreza-mohammadi94/Persian-Poem-Dataset)
