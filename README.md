@@ -36,7 +36,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [Khayyam Challenge PersianMMLU: Is Your LLM Truly Wise to The Persian Language?](https://openreview.net/forum?id=yIEyHP7AvH&referrer=%5Bthe%20profile%20of%20Omid%20Ghahroodi%5D(%2Fprofile%3Fid%3D~Omid_Ghahroodi1))
 - [Evaluating LLM-Generated Persian Questions for Teaching Conditional Programming Using Bloom’s Taxonomy](https://ieeexplore.ieee.org/document/10843532)
 - [FarsInstruct: Empowering Large Language Models for Persian Instruction Understanding](https://arxiv.org/html/2407.11186v1)
-
+- [Large Language Models for Persian-English Idiom Translation](https://aclanthology.org/2025.naacl-long.405/)
 ---
 
 ## Models
