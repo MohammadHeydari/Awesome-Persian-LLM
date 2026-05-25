@@ -8,14 +8,14 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 
 ## Table of Contents
 
-- [Papers & Research](#-papers--research)
-- [Models](#-models)
-- [Datasets](#-datasets)
-- [Tools & Libraries](#️-tools--libraries)
-- [Evaluation & Benchmarks](#-evaluation--benchmarks)
-- [APIs & Platforms](#-apis--platforms)
-- [Articles & Blogs](#-articles--blogs)
-- [Contributing](#-contributing)
+- [Papers & Research](#papers--research)
+- [Models](#models)
+- [Datasets](#datasets)
+- [Tools & Libraries](#tools--libraries)
+- [Evaluation & Benchmarks](#evaluation--benchmarks)
+- [APIs & Platforms](#apis--platforms)
+- [Articles & Blogs](#articles--blogs)
+- [Contributing](#contributing)
 
 ---
 
