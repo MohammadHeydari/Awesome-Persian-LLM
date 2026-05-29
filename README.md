@@ -81,6 +81,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [Maral is here, 7 billion parameters bilingual model with support of Persian!](https://haghiri75.com/en/maral-is-here-7-billion-parameters-bilingual-model-with-support-of-persian/)
 - [Fine-Tuning a Large Language Model for Persian: Our Company’s Journey](https://medium.com/@info.ahdsoft/fine-tuning-a-large-language-model-for-persian-our-companys-journey-20aedcc9c13f)
 - [The Widening Gap: Persian Language in the Age of Large Language Models](https://www.linkedin.com/pulse/widening-gap-persian-language-age-large-models-mehrdad-zaker-waevc/)
+- [Deep Dive into a Persian QA Task](https://medium.com/@marziehsepehr/deep-dive-into-a-persian-qa-task-eb41b050caaa)
 ---
 
 ## Persian Blogs Posts 
