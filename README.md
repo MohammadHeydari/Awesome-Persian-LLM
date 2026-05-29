@@ -55,6 +55,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [Persian-Ollama-LLm](https://github.com/sepy-dev/Persian-Ollama-LLm)
 - [Promptwright - Synthetic Dataset Generation Library, Persian Version](https://github.com/ParsBench/Persian-PromptWright)
 - [AVA-Llama-3](https://github.com/mehdihosseinimoghadam/AVA-Llama-3)
+- [Persian RAG System](https://github.com/mehdighelich1379/persian-rag-system)
 --- 
 
 ## Datasets
