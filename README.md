@@ -83,6 +83,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [Fine-Tuning a Large Language Model for Persian: Our Company’s Journey](https://medium.com/@info.ahdsoft/fine-tuning-a-large-language-model-for-persian-our-companys-journey-20aedcc9c13f)
 - [The Widening Gap: Persian Language in the Age of Large Language Models](https://www.linkedin.com/pulse/widening-gap-persian-language-age-large-models-mehrdad-zaker-waevc/)
 - [Deep Dive into a Persian QA Task](https://medium.com/@marziehsepehr/deep-dive-into-a-persian-qa-task-eb41b050caaa)
+- [Create a QA System in Persian with RAG](https://avalai.ir/blog/comprehensive-training-on-creating-with-rag/)
 ---
 
 ## Persian Blogs Posts 
