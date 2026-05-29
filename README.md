@@ -47,6 +47,8 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [Hakim: Farsi Text Embedding Model](https://arxiv.org/abs/2505.08435)
 - [Tooka-SBERT: Lightweight Sentence Embedding models for Persian](https://aclanthology.org/2025.findings-ijcnlp.147.pdf)
 
+---
+
 ## Models
 
 - [Dorna-Llama3-8B-Instruct-GGUF](https://huggingface.co/PartAI/Dorna-Llama3-8B-Instruct-GGUF)
