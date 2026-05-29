@@ -38,6 +38,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [FarsInstruct: Empowering Large Language Models for Persian Instruction Understanding](https://arxiv.org/html/2407.11186v1)
 - [Large Language Models for Persian-English Idiom Translation](https://aclanthology.org/2025.naacl-long.405/)
 - [EPT Benchmark: Evaluation of Persian Trustworthiness in Large Language Models](https://www.isecure-journal.com/article_242935.html)
+- [PersianRAG: A Retrieval-Augmented Generation System for Persian Language](https://arxiv.org/abs/2411.02832)
 ---
 
 ## Models
