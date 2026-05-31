@@ -58,6 +58,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [Persian-llm-fibonacci-1-7b-chat.P1_0](https://www.promptlayer.com/models/persian-llm-fibonacci-1-7b-chatp10/)
 - [gemma3persian](https://ollama.com/mshojaei77/gemma3persian)
 - [AVA-Llama-3-V2 ](https://huggingface.co/MehdiHosseiniMoghadam/AVA-Llama-3-V2)
+- [persian_llama_7b](https://huggingface.co/mostafaamiri/persian_llama_7b)
 ---
 
 ## Repos
