@@ -80,6 +80,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 
 - [Open Persian LLM Leaderboard](https://huggingface.co/spaces/PartAI/open-persian-llm-leaderboard)
 - [Persian LLM Leaderboard](https://huggingface.co/spaces/MatinaAI/persian_llm_leaderboard)
+- [🇮🇷 MIZAN: A Persian LLM Leaderboard](https://mcinext-mizan-llm-leaderboard.hf.space/)
 
 ---
 
