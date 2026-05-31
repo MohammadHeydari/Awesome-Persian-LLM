@@ -73,6 +73,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [Persian Poetry Dataset for NLP & LLM Tasks](https://github.com/mohammadreza-mohammadi94/Persian-Poem-Dataset)
 - [Pre-trained Language Models](https://nlpdataset.ir/farsi/pre-trained_lm.html)
 - [Targoman TLPC](https://huggingface.co/datasets/Targoman/TLPC)
+- [Persian News Dataset](https://www.kaggle.com/datasets/amirzenoozi/persian-news-dataset)
 ---
 
 ## Evaluation & Benchmarks
