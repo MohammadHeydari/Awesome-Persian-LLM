@@ -59,6 +59,9 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [gemma3persian](https://ollama.com/mshojaei77/gemma3persian)
 - [AVA-Llama-3-V2 ](https://huggingface.co/MehdiHosseiniMoghadam/AVA-Llama-3-V2)
 - [persian_llama_7b](https://huggingface.co/mostafaamiri/persian_llama_7b)
+- [MaralGPT/Maral-7B-alpha-1](https://huggingface.co/MaralGPT/Maral-7B-alpha-1)
+- [alpaca-persian](https://huggingface.co/datasets/sinarashidi/alpaca-persian)
+- [Dorna-Llama3-8B-Instruct-Quantized4Bit](https://huggingface.co/amirMohammadi/Dorna-Llama3-8B-Instruct-Quantized4Bit)
 ---
 
 ## Repos
