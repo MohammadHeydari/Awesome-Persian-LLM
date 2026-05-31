@@ -40,7 +40,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [EPT Benchmark: Evaluation of Persian Trustworthiness in Large Language Models](https://www.isecure-journal.com/article_242935.html)
 - [PersianRAG: A Retrieval-Augmented Generation System for Persian Language](https://arxiv.org/abs/2411.02832)
 - [PerCoR: Evaluating Commonsense Reasoning in Persian via Multiple-Choice Sentence Completion](https://arxiv.org/html/2510.22616v1)
-
+- [ELAB: Extensive LLM Alignment Benchmark in Persian Language](https://arxiv.org/abs/2504.12553)
 ---
 
 ## Paper & Research (Embedding Models)
@@ -72,6 +72,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 
 - [Persian Poetry Dataset for NLP & LLM Tasks](https://github.com/mohammadreza-mohammadi94/Persian-Poem-Dataset)
 - [Pre-trained Language Models](https://nlpdataset.ir/farsi/pre-trained_lm.html)
+- [Targoman TLPC](https://huggingface.co/datasets/Targoman/TLPC)
 ---
 
 ## Evaluation & Benchmarks
