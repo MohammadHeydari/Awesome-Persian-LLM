@@ -120,7 +120,7 @@ If you know any useful resource related to Persian LLMs, feel free to:
 2. Add your resource
 3. Submit a pull request
 
-Please keep entries clean and categorized properly
+Please keep entries clean and categorized properly.
 
 ---
 
