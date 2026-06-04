@@ -41,6 +41,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [PersianRAG: A Retrieval-Augmented Generation System for Persian Language](https://arxiv.org/abs/2411.02832)
 - [PerCoR: Evaluating Commonsense Reasoning in Persian via Multiple-Choice Sentence Completion](https://arxiv.org/html/2510.22616v1)
 - [ELAB: Extensive LLM Alignment Benchmark in Persian Language](https://arxiv.org/abs/2504.12553)
+- [FARSIQA: Faithful & Advanced RAG System for Islamic Question Answering](https://openreview.net/forum?id=TP1sKVHGY5#discussion
 ---
 
 ## Paper & Research (Embedding Models)
