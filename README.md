@@ -80,6 +80,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [Pre-trained Language Models](https://nlpdataset.ir/farsi/pre-trained_lm.html)
 - [Targoman TLPC](https://huggingface.co/datasets/Targoman/TLPC)
 - [Persian News Dataset](https://www.kaggle.com/datasets/amirzenoozi/persian-news-dataset)
+- [synthetic-persian-chatbot-rag-summary-retrieval ](https://huggingface.co/datasets/MCINext/synthetic-persian-chatbot-rag-summary-retrieval)
 ---
 
 ## Evaluation & Benchmarks
