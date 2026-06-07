@@ -42,6 +42,9 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [PerCoR: Evaluating Commonsense Reasoning in Persian via Multiple-Choice Sentence Completion](https://arxiv.org/html/2510.22616v1)
 - [ELAB: Extensive LLM Alignment Benchmark in Persian Language](https://arxiv.org/abs/2504.12553)
 - [FARSIQA Faithful Advanced RAG System for Islamic Question Answering](https://openreview.net/forum?id=TP1sKVHGY5#discussion)
+- [One Language, Three of Its Voices: Evaluating Multilingual LLMs Across
+Persian, Dari, and Tajiki on Translation and Understanding Tasks](https://aclanthology.org/2026.silkroadnlp-1.10.pdf)
+- [Predictive typing for the Persian language: A survey](https://www.sciencedirect.com/science/article/abs/pii/S095219762502490X)
 ---
 
 ## Paper & Research (Embedding Models)
