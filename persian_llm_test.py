@@ -1,14 +1,3 @@
-"""
-Many ways to test Persian language models among them:
-  1. Local model via Ollama (e.g. Dorna)
-  2. AvvalAI API (OpenAI-compatible)
-  3. Directly from HuggingFace
-
-Install:
-    pip install requests transformers torch
-    # For Ollama: https://ollama.com
-"""
-
 import time
 import requests
 
@@ -48,13 +37,10 @@ def evaluate_response(response: str) -> dict:
 
 
 def test_ollama(model_name: str = "partai/dorna-llama3", base_url: str = "http://localhost:11434"):
-    """
-    Test a Persian LLM running locally via Ollama.
 
-    Setup:
-        ollama pull partai/dorna-llama3
-        ollama serve
-    """
+    # Test a Persian LLM running locally via Ollama.
+
+
     print("\n" + "=" * 50)
     print(f"Ollama  |  model: {model_name}")
     print("=" * 50)
@@ -93,12 +79,9 @@ def test_ollama(model_name: str = "partai/dorna-llama3", base_url: str = "http:/
 
 
 def test_huggingface(model_id: str = "universitytehran/PersianMind-v1.0"):
-    """
-    Load and test a Persian model directly from HuggingFace Hub.
 
-    Install:
-        pip install transformers torch
-    """
+    # Load and test a Persian model directly from HuggingFace Hub.
+
     print("\n" + "=" * 50)
     print(f"HuggingFace  |  model: {model_id}")
     print("=" * 50)
