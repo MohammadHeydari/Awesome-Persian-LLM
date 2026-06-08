@@ -48,6 +48,7 @@ Persian, Dari, and Tajiki on Translation and Understanding Tasks](https://aclant
 - [Matina: A Large-Scale 73B Token Persian Text Corpus](https://arxiv.org/html/2502.09188v1)
 - [TekRAG-Persian: A Data-Centric Benchmark for Reducing Hallucination in Persian Technical Question Answering
 ](https://www.teknav.ir/article/tekrag-persian-data-centric-rag-benchmark)
+- [PersianMind: A Cross-Lingual Persian-English Large Language Model](https://arxiv.org/html/2401.06466v1)
 ---
 
 ## Paper & Research (Embedding Models)
