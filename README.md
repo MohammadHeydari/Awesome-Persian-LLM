@@ -106,7 +106,7 @@ Persian, Dari, and Tajiki on Translation and Understanding Tasks](https://aclant
 - [GapGPT](https://gapgpt.app/)
 - [liara](https://liara.ir/products/ai/)
 - [roboo](https://roboo.ir/)
-
+- [ivira](https://ivira.ai/chatbot/)
 ---
 
 ## Articles & Blogs
