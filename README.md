@@ -76,6 +76,7 @@ Persian, Dari, and Tajiki on Translation and Understanding Tasks](https://aclant
 - [AVA-Llama-3](https://github.com/mehdihosseinimoghadam/AVA-Llama-3)
 - [Persian RAG System](https://github.com/mehdighelich1379/persian-rag-system)
 - [RAG Langchain Persian](https://www.kaggle.com/code/skhalili/rag-langchain-persian)
+- [Artificial Intelligence Projects](https://github.com/omid-sakaki-ghazvini/Projects/tree/main)
 --- 
 
 ## Datasets
