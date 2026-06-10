@@ -4,6 +4,8 @@ A curated list of **resources for Persian (Farsi) Large Language Models (LLMs)**
 
 This repository aims to collect everything related to **Persian NLP + LLMs** in one place for researchers, developers, and enthusiasts.
 
+![](Persian.png)
+
 ---
 
 ## Table of Contents
