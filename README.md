@@ -55,6 +55,7 @@ Persian, Dari, and Tajiki on Translation and Understanding Tasks](https://aclant
 
 - [Hakim: Farsi Text Embedding Model](https://arxiv.org/abs/2505.08435)
 - [Tooka-SBERT: Lightweight Sentence Embedding models for Persian](https://aclanthology.org/2025.findings-ijcnlp.147.pdf)
+- [FaMTEB: Massive Text Embedding Benchmark in Persian Language](https://arxiv.org/pdf/2502.11571)
 
 ---
 
