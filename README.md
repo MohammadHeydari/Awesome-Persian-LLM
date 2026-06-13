@@ -119,6 +119,7 @@ Persian, Dari, and Tajiki on Translation and Understanding Tasks](https://aclant
 - [The Widening Gap: Persian Language in the Age of Large Language Models](https://www.linkedin.com/pulse/widening-gap-persian-language-age-large-models-mehrdad-zaker-waevc/)
 - [Deep Dive into a Persian QA Task](https://medium.com/@marziehsepehr/deep-dive-into-a-persian-qa-task-eb41b050caaa)
 - [Create a QA System in Persian with RAG](https://avalai.ir/blog/comprehensive-training-on-creating-with-rag/)
+- [How five AI models source Iran-related information in Persian](https://www.gazzetta.xyz/iran-persian-ai-model-compared/)
 ---
 
 ## Persian Blogs Posts 
