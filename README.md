@@ -51,6 +51,7 @@ Persian, Dari, and Tajiki on Translation and Understanding Tasks](https://aclant
 - [TekRAG-Persian: A Data-Centric Benchmark for Reducing Hallucination in Persian Technical Question Answering
 ](https://www.teknav.ir/article/tekrag-persian-data-centric-rag-benchmark)
 - [PersianMind: A Cross-Lingual Persian-English Large Language Model](https://arxiv.org/html/2401.06466v1)
+- [A pretrained biomedical large language model for Persian biomedical text mining](https://www.nature.com/articles/s41598-026-55970-3)
 ---
 
 ## Paper & Research (Embedding Models)
