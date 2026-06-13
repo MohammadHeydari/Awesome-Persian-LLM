@@ -48,8 +48,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 Persian, Dari, and Tajiki on Translation and Understanding Tasks](https://aclanthology.org/2026.silkroadnlp-1.10.pdf)
 - [Predictive typing for the Persian language: A survey](https://www.sciencedirect.com/science/article/abs/pii/S095219762502490X)
 - [Matina: A Large-Scale 73B Token Persian Text Corpus](https://arxiv.org/html/2502.09188v1)
-- [TekRAG-Persian: A Data-Centric Benchmark for Reducing Hallucination in Persian Technical Question Answering
-](https://www.teknav.ir/article/tekrag-persian-data-centric-rag-benchmark)
+- [TekRAG-Persian: A Data-Centric Benchmark for Reducing Hallucination in Persian Technical Question Answering](https://www.teknav.ir/article/tekrag-persian-data-centric-rag-benchmark)
 - [PersianMind: A Cross-Lingual Persian-English Large Language Model](https://arxiv.org/html/2401.06466v1)
 - [A pretrained biomedical large language model for Persian biomedical text mining](https://www.nature.com/articles/s41598-026-55970-3)
 ---
