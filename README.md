@@ -84,6 +84,7 @@ Persian, Dari, and Tajiki on Translation and Understanding Tasks](https://aclant
 - [RAG Langchain Persian](https://www.kaggle.com/code/skhalili/rag-langchain-persian)
 - [Artificial Intelligence Projects](https://github.com/omid-sakaki-ghazvini/Projects/tree/main)
 - [llm-for-humans](https://github.com/3lf/llm-for-humans)
+- [RAG_system_using_Wikipedia](https://github.com/omid-sakaki-ghazvini/Projects/blob/main/RAG_system_using_Wikipedia.ipynb)
 --- 
 
 ## Datasets
