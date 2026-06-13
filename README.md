@@ -8,9 +8,19 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Papers & Research](#papers--research)
+* [Papers & Research](#papers--research)
+
+  * [LLM Development & Training](#llm-development--training)
+  * [Evaluation & Benchmarks](#evaluation--benchmarks)
+  * [Instruction Tuning & Alignment](#instruction-tuning--alignment)
+  * [RAG Systems](#rag-systems--retrieval-augmented-generation)
+  * [Culture & Linguistics](#culture-linguistics--language-behavior)
+  * [Multilingual Studies](#multilingual--cross-lingual-studies)
+  * [Datasets](#datasets--resources)
+* [Embedding Models](#embedding-models)
+* [Embedding Benchmarks](#embedding-benchmarks)
 - [Models](#models)
 - [Datasets](#datasets)
 - [Tools & Libraries](#tools--libraries)
