@@ -101,6 +101,7 @@ Persian, Dari, and Tajiki on Translation and Understanding Tasks](https://aclant
 - [Open Persian LLM Leaderboard](https://huggingface.co/spaces/PartAI/open-persian-llm-leaderboard)
 - [Persian LLM Leaderboard](https://huggingface.co/spaces/MatinaAI/persian_llm_leaderboard)
 - [🇮🇷 MIZAN: A Persian LLM Leaderboard](https://mcinext-mizan-llm-leaderboard.hf.space/)
+- [ParsBench](https://github.com/ParsBench/ParsBench)
 
 ---
 
