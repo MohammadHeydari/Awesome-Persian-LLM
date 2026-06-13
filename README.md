@@ -21,7 +21,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 
 ---
 
-## 📚 Papers & Research (Persian LLM Ecosystem)
+## Papers & Research (Persian LLM Ecosystem)
 
 ### LLM Development & Training
 
