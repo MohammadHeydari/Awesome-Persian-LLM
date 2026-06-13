@@ -21,44 +21,84 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 
 ---
 
-## Papers & Research
+## 📚 Papers & Research (Persian LLM Ecosystem)
 
-- [Benchmarking Open-Source Large Language Models for Persian in Zero-Shot and Few-Shot Learning](https://arxiv.org/html/2510.12807v1)
-- [Benchmarking Large Language Models for Persian](https://arxiv.org/html/2404.02403v1)
-- [Persian-Phi: Efficient Cross-Lingual Adaptation of Compact LLMs via Curriculum Learning](https://arxiv.org/abs/2512.07454)
-- [Extensive LLM Alignment Benchmark in Persian Language](https://arxiv.org/abs/2504.12553)
-- [We Politely Insist: Your LLM Must Learn the Persian Art of Taarof](https://www.researchgate.net/publication/395212893_We_Politely_Insist_Your_LLM_Must_Learn_the_Persian_Art_of_Taarof)
-- [Towards Building First Persian Large Language Model](https://arxiv.org/abs/2312.15713)
-- [Advancing Persian LLM Evaluation](https://aclanthology.org/2025.findings-naacl.147.pdf)
-- [MELAC: Massive Evaluation of Large Language Models](https://aclanthology.org/2025.ijcnlp-long.105.pdf)
-- [Leveraging Retrieval-Augmented Generation for University Knowledge Retrieval](https://arxiv.org/html/2411.06237v1)
-- [We Politely Insist: Your LLM Must Learn the Persian Art of Taarof](https://aclanthology.org/2025.emnlp-main.94.pdf)
-- [PARSE: An Open-Domain Reasoning Question Answering Benchmark for Persian](https://www.researchgate.net/publication/400371023_PARSE_An_Open-Domain_Reasoning_Question_Answering_Benchmark_for_Persian/figures?lo=1&utm_source=google&utm_medium=organic)
-- [Empowering Persian LLMs for Instruction Following](https://aclanthology.org/2025.loreslm-1.3/)
-- [Khayyam Challenge PersianMMLU: Is Your LLM Truly Wise to The Persian Language?](https://openreview.net/forum?id=yIEyHP7AvH&referrer=%5Bthe%20profile%20of%20Omid%20Ghahroodi%5D(%2Fprofile%3Fid%3D~Omid_Ghahroodi1))
-- [Evaluating LLM-Generated Persian Questions for Teaching Conditional Programming Using Bloom’s Taxonomy](https://ieeexplore.ieee.org/document/10843532)
-- [FarsInstruct: Empowering Large Language Models for Persian Instruction Understanding](https://arxiv.org/html/2407.11186v1)
-- [Large Language Models for Persian-English Idiom Translation](https://aclanthology.org/2025.naacl-long.405/)
-- [EPT Benchmark: Evaluation of Persian Trustworthiness in Large Language Models](https://www.isecure-journal.com/article_242935.html)
-- [PersianRAG: A Retrieval-Augmented Generation System for Persian Language](https://arxiv.org/abs/2411.02832)
-- [PerCoR: Evaluating Commonsense Reasoning in Persian via Multiple-Choice Sentence Completion](https://arxiv.org/html/2510.22616v1)
-- [ELAB: Extensive LLM Alignment Benchmark in Persian Language](https://arxiv.org/abs/2504.12553)
-- [FARSIQA Faithful Advanced RAG System for Islamic Question Answering](https://openreview.net/forum?id=TP1sKVHGY5#discussion)
-- [One Language, Three of Its Voices: Evaluating Multilingual LLMs Across
-Persian, Dari, and Tajiki on Translation and Understanding Tasks](https://aclanthology.org/2026.silkroadnlp-1.10.pdf)
-- [Predictive typing for the Persian language: A survey](https://www.sciencedirect.com/science/article/abs/pii/S095219762502490X)
-- [Matina: A Large-Scale 73B Token Persian Text Corpus](https://arxiv.org/html/2502.09188v1)
-- [TekRAG-Persian: A Data-Centric Benchmark for Reducing Hallucination in Persian Technical Question Answering](https://www.teknav.ir/article/tekrag-persian-data-centric-rag-benchmark)
-- [PersianMind: A Cross-Lingual Persian-English Large Language Model](https://arxiv.org/html/2401.06466v1)
-- [A pretrained biomedical large language model for Persian biomedical text mining](https://www.nature.com/articles/s41598-026-55970-3)
-- [PERCUL: A Story-Driven Cultural Evaluation of LLMs in Persian](https://aclanthology.org/2025.naacl-long.631.pdf)
+### LLM Development & Training
+
+* [Towards Building First Persian Large Language Model](https://arxiv.org/abs/2312.15713)
+* [Persian-Phi: Efficient Cross-Lingual Adaptation of Compact LLMs via Curriculum Learning](https://arxiv.org/abs/2512.07454)
+* [PersianMind: A Cross-Lingual Persian-English Large Language Model](https://arxiv.org/html/2401.06466v1)
+* [A pretrained biomedical large language model for Persian biomedical text mining](https://www.nature.com/articles/s41598-026-55970-3)
+* [Matina: A Large-Scale 73B Token Persian Text Corpus](https://arxiv.org/html/2502.09188v1)
+
 ---
 
-## Paper & Research (Embedding Models)
+### Evaluation & Benchmarks
 
-- [Hakim: Farsi Text Embedding Model](https://arxiv.org/abs/2505.08435)
-- [Tooka-SBERT: Lightweight Sentence Embedding models for Persian](https://aclanthology.org/2025.findings-ijcnlp.147.pdf)
-- [FaMTEB: Massive Text Embedding Benchmark in Persian Language](https://arxiv.org/pdf/2502.11571)
+* [Benchmarking Open-Source Large Language Models for Persian in Zero-Shot and Few-Shot Learning](https://arxiv.org/html/2510.12807v1)
+* [Benchmarking Large Language Models for Persian](https://arxiv.org/html/2404.02403v1)
+* [Advancing Persian LLM Evaluation](https://aclanthology.org/2025.findings-naacl.147.pdf)
+* [MELAC: Massive Evaluation of Large Language Models](https://aclanthology.org/2025.ijcnlp-long.105.pdf)
+* [ELAB: Extensive LLM Alignment Benchmark in Persian Language](https://arxiv.org/abs/2504.12553)
+* [EPT Benchmark: Evaluation of Persian Trustworthiness in Large Language Models](https://www.isecure-journal.com/article_242935.html)
+* [Khayyam Challenge PersianMMLU: Is Your LLM Truly Wise to The Persian Language?](https://openreview.net/forum?id=yIEyHP7AvH)
+* [PARSE: An Open-Domain Reasoning Question Answering Benchmark for Persian](https://www.researchgate.net/publication/400371023_PARSE_An_Open-Domain_Reasoning_Question_Answering_Benchmark_for_Persian)
+* [PerCoR: Evaluating Commonsense Reasoning in Persian via Multiple-Choice Sentence Completion](https://arxiv.org/html/2510.22616v1)
+* [PERCUL: A Story-Driven Cultural Evaluation of LLMs in Persian](https://aclanthology.org/2025.naacl-long.631.pdf)
+* [One Language, Three of Its Voices: Evaluating Multilingual LLMs Across Persian, Dari, and Tajiki](https://aclanthology.org/2026.silkroadnlp-1.10.pdf)
+
+---
+
+### Instruction Tuning & Alignment
+
+* [Empowering Persian LLMs for Instruction Following](https://aclanthology.org/2025.loreslm-1.3/)
+* [FarsInstruct: Empowering Large Language Models for Persian Instruction Understanding](https://arxiv.org/html/2407.11186v1)
+* [Evaluating LLM-Generated Persian Questions for Teaching Conditional Programming Using Bloom’s Taxonomy](https://ieeexplore.ieee.org/document/10843532)
+
+---
+
+### RAG Systems & Retrieval-Augmented Generation
+
+* [PersianRAG: A Retrieval-Augmented Generation System for Persian Language](https://arxiv.org/abs/2411.02832)
+* [FARSIQA: Faithful Advanced RAG System for Islamic Question Answering](https://openreview.net/forum?id=TP1sKVHGY5)
+* [TekRAG-Persian: A Data-Centric Benchmark for Reducing Hallucination in Persian Technical QA](https://www.teknav.ir/article/tekrag-persian-data-centric-rag-benchmark)
+* [Leveraging Retrieval-Augmented Generation for University Knowledge Retrieval](https://arxiv.org/html/2411.06237v1)
+
+---
+
+### Culture, Linguistics & Language Behavior
+
+* [We Politely Insist: Your LLM Must Learn the Persian Art of Taarof](https://aclanthology.org/2025.emnlp-main.94.pdf)
+* [Large Language Models for Persian-English Idiom Translation](https://aclanthology.org/2025.naacl-long.405/)
+* [Predictive typing for the Persian language: A survey](https://www.sciencedirect.com/science/article/abs/pii/S095219762502490X)
+
+---
+
+### Multilingual & Cross-Lingual Studies
+
+* [Persian-Phi: Efficient Cross-Lingual Adaptation](https://arxiv.org/abs/2512.07454)
+* [PersianMind: A Cross-Lingual Persian-English LLM](https://arxiv.org/html/2401.06466v1)
+* [One Language, Three of Its Voices (Persian, Dari, Tajiki)](https://aclanthology.org/2026.silkroadnlp-1.10.pdf)
+
+---
+
+### Datasets & Resources
+
+* [Matina: A Large-Scale 73B Token Persian Text Corpus](https://arxiv.org/html/2502.09188v1)
+
+---
+
+## Embedding Models
+
+* [Hakim: Farsi Text Embedding Model](https://arxiv.org/abs/2505.08435)
+* [Tooka-SBERT: Lightweight Sentence Embedding Models for Persian](https://aclanthology.org/2025.findings-ijcnlp.147.pdf)
+
+---
+
+## Embedding Benchmarks
+
+* [FaMTEB: Massive Text Embedding Benchmark in Persian Language](https://arxiv.org/pdf/2502.11571)
+
 
 ---
 
