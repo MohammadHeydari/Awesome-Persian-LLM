@@ -187,7 +187,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [Nvidia Free AI Models](https://www.linkedin.com/feed/update/urn:li:activity:7472944459584843779?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7472944459584843779%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 - [Agentic Software Team](https://www.linkedin.com/feed/update/urn:li:activity:7473000263553998848?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7473000263553998848%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 - [Claude Desktop RTL](https://www.linkedin.com/feed/update/urn:li:activity:7472913196685885440?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7472913196685885440%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
-
+- [FreeModel.dev](https://www.linkedin.com/feed/update/urn:li:activity:7472603642198462464?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7472603642198462464%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 ---
 
 ## Contributing
