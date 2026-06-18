@@ -191,6 +191,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [Why Most RAG Projects Fail Before They Start?](https://www.linkedin.com/feed/update/urn:li:activity:7472407746538180609?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7472407746538180609%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 - [AirLLM](https://www.linkedin.com/feed/update/urn:li:activity:7471516867153571841?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7471516867153571841%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 - [Do Language Models Need Sleep?](https://www.linkedin.com/feed/update/urn:li:activity:7472244283434164224?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7472244283434164224%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+- [AI Transformation at Yektanet](https://www.linkedin.com/feed/update/urn:li:activity:7471826537076580352?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7471826537076580352%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 ---
 
 ## Contributing
