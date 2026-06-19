@@ -136,6 +136,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [Artificial Intelligence Projects](https://github.com/omid-sakaki-ghazvini/Projects/tree/main)
 - [llm-for-humans](https://github.com/3lf/llm-for-humans)
 - [RAG_system_using_Wikipedia](https://github.com/omid-sakaki-ghazvini/Projects/blob/main/RAG_system_using_Wikipedia.ipynb)
+- [persian-scientific-cqa](https://github.com/aghadavood/persian-scientific-cqa)
 --- 
 
 ## Datasets
