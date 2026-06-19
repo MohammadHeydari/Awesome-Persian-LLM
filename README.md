@@ -8,7 +8,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 * [Papers & Research](#papers--research)
 
@@ -95,6 +95,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 ### Datasets & Resources
 
 * [Matina: A Large-Scale 73B Token Persian Text Corpus](https://arxiv.org/html/2502.09188v1)
+* [https://aclanthology.org/2025.ranlp-1.4/](https://aclanthology.org/2025.ranlp-1.4/)
 
 ---
 
