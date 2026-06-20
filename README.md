@@ -139,6 +139,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [RAG_system_using_Wikipedia](https://github.com/omid-sakaki-ghazvini/Projects/blob/main/RAG_system_using_Wikipedia.ipynb)
 - [persian-scientific-cqa](https://github.com/aghadavood/persian-scientific-cqa)
 - [A Large-Scale Metaphor-Annotated Corpus for Persian](https://github.com/ms-miri/PerMet)
+- [Generating high-quality Farsi instruction-following synthetic datasets using LLMs](https://github.com/MohammadHeydari/FarsiSyntheticData)
 --- 
 
 ## Datasets
