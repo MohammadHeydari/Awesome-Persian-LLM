@@ -141,6 +141,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [A Large-Scale Metaphor-Annotated Corpus for Persian](https://github.com/ms-miri/PerMet)
 - [Generating high-quality Farsi instruction-following synthetic datasets using LLMs](https://github.com/MohammadHeydari/FarsiSyntheticData)
 - [QLoRA experiments on a 6GB consumer GPU](https://github.com/MohammadHeydari/QLoRA)
+- [FarsiRAG Chatbot](https://github.com/MohammadHeydari/FarsiRAG)
 --- 
 
 ## Datasets
