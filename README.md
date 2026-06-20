@@ -151,6 +151,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [synthetic-persian-chatbot-rag-summary-retrieval ](https://huggingface.co/datasets/MCINext/synthetic-persian-chatbot-rag-summary-retrieval)
 - [social-engineering-qa-persian](https://huggingface.co/datasets/smd20/social-engineering-qa-persian)
 - [https://aclanthology.org/2025.ranlp-1.4/](https://aclanthology.org/2025.ranlp-1.4/)
+- [Persian-Synthetic-Instruct ](https://huggingface.co/datasets/Heydaritoday/Persian-Synthetic-Instruct)
 ---
 
 ## Evaluation & Benchmarks
