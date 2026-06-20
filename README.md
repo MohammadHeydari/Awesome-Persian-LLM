@@ -95,7 +95,8 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 ### Datasets & Resources
 
 * [Matina: A Large-Scale 73B Token Persian Text Corpus](https://arxiv.org/html/2502.09188v1)
-* [https://aclanthology.org/2025.ranlp-1.4/](https://aclanthology.org/2025.ranlp-1.4/)
+* [PersianSciQA: A New Dataset for Bridging the Language Gap in Scientific Question Answering](https://aclanthology.org/2025.ranlp-1.4/)
+* [Conversational Question and Answering Systems for Low-Resource Languages: A new framework with Large Language Models](https://jipm.irandoc.ac.ir/article_733816_en.html)
 
 ---
 
