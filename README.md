@@ -56,6 +56,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 * [PerCoR: Evaluating Commonsense Reasoning in Persian via Multiple-Choice Sentence Completion](https://arxiv.org/html/2510.22616v1)
 * [PERCUL: A Story-Driven Cultural Evaluation of LLMs in Persian](https://aclanthology.org/2025.naacl-long.631.pdf)
 * [One Language, Three of Its Voices: Evaluating Multilingual LLMs Across Persian, Dari, and Tajiki](https://aclanthology.org/2026.silkroadnlp-1.10.pdf)
+* [Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT](https://arxiv.org/abs/2404.02403)
 
 ---
 
