@@ -204,6 +204,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [Do Language Models Need Sleep?](https://www.linkedin.com/feed/update/urn:li:activity:7472244283434164224?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7472244283434164224%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 - [AI Transformation at Yektanet](https://www.linkedin.com/feed/update/urn:li:activity:7471826537076580352?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7471826537076580352%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 - [Social Engineering QA](https://www.linkedin.com/pulse/%D8%AF%DB%8C%D8%AA%D8%A7%D8%B3%D8%AA-%D9%BE%D8%B1%D8%B3%D8%B4%D9%88%D9%BE%D8%A7%D8%B3%D8%AE-%D8%B2%D9%85%DB%8C%D9%86%D9%87%D9%85%D9%86%D8%AF-%D9%88-%D8%AF%D9%88%D8%B2%D8%A8%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C-samad-sohrab-xtghe/)
+- [Scaling laws and compute optimal models](https://www.linkedin.com/posts/iranai_%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%85%D9%88%D9%84%D8%AF-%D8%A8%D8%A7-%D9%85%D8%AF%D9%84-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-share-7383100252410585088-M7w9/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7383100253522149376&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAABlXR1sBIuQ-ihs5p-HQ2QcH8Kh0iwb0pWU)
 ---
 
 ## Contributing
