@@ -27,6 +27,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 * [Evaluation & Benchmarks](#evaluation--benchmarks)
 * [APIs & Platforms](#apis--platforms)
 * [Articles & Blogs](#articles--blogs)
+* [Structured companion (JSON atlas)](#structured-companion-json-atlas)
 * [Contributing](#contributing)
 
 ---
@@ -231,3 +232,24 @@ This project is licensed under the **MIT License**.
 
 Persian is still an underrepresented language in the LLM ecosystem.  
 This repo aims to make it easier to build, train, and deploy **high-quality Persian AI systems**.
+
+---
+
+## Structured companion (JSON atlas)
+
+Link lists excel at **discovery**. Some workflows also need **typed, citable records** — license, size, verification status, benchmark receipts — in one machine-readable file.
+
+[**Persian LLM Reference**](https://sinakazemnezhad.github.io/persian-llm-reference/) is an open companion project:
+
+| | This Awesome list | Persian LLM Reference |
+|---|-------------------|------------------------|
+| **Strength** | Breadth — papers, tools, blogs, APIs | Depth per artifact — schema + sources |
+| **Format** | Curated markdown links | Bilingual UI + [`reference-manifest.json`](https://raw.githubusercontent.com/sinakazemnezhad/persian-llm-reference/main/data/reference-manifest.json) |
+| **Scores** | Links to leaderboards | Cites leaderboards; does not mirror live tables |
+| **Unknowns** | — | Benchmark fields stay `null` until verified |
+
+- **Browse (FA/EN):** https://sinakazemnezhad.github.io/persian-llm-reference/
+- **Cite in papers/agents:** manifest URL above · check `version` and `generatedAt`
+- **This list inside the atlas:** entry `awesome-persian-llm` (verified community index)
+
+*Same ecosystem — discover here, structure and verify there.*
