@@ -144,6 +144,7 @@ This repository aims to collect everything related to **Persian NLP + LLMs** in 
 - [Generating high-quality Farsi instruction-following synthetic datasets using LLMs](https://github.com/MohammadHeydari/FarsiSyntheticData)
 - [QLoRA experiments on a 6GB consumer GPU](https://github.com/MohammadHeydari/QLoRA)
 - [FarsiRAG Chatbot](https://github.com/MohammadHeydari/FarsiRAG)
+- [Write Natural](https://github.com/sinadwm1/write-natural) — Persian and English writing skill for faithful revision, native Persian register and orthography, and anti-slop editing; includes genre references and optional offline diagnostics. Author submission.
 --- 
 
 ## Datasets
